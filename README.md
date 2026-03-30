@@ -1,6 +1,6 @@
 # Digital-literacy-project
 
-# Made by-
+## Made by-
 - Name- GAURI SRIVASTAVA
 - Registration number- 25BCE10070
 - Course- B. TECH (CSE CORE)
